@@ -27,7 +27,7 @@
     "docs": "https://telegram-bot-sdk.com"
   },
   "require": {
-    "illuminate/console": "10 - 12",
+    "illuminate/console": "10 - 13",
     "telegram-bot-sdk/telegram-bot-sdk": "^4.0@dev"
   },
   "require-dev": {
